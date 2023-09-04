@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/L3osQ0Rd5VzKRJGN3p/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
